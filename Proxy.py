@@ -5,7 +5,6 @@ import urllib
 import re
 import socket
 import random
-from BeautifulSoup import BeautifulSoup
 socket.setdefaulttimeout(2)
 import sys
 reload(sys)
